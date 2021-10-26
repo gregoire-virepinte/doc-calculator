@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdoc_calculator=self.webpackChunkdoc_calculator||[]).push([[427],{890:function(a){a.exports=JSON.parse('{"allTagsPath":"/doc-calculator/blog/tags","slug":"/doc-calculator/blog/tags/docusaurus","name":"docusaurus","count":4,"permalink":"/doc-calculator/blog/tags/docusaurus"}')}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdoc_calculator=self.webpackChunkdoc_calculator||[]).push([[346],{315:function(a){a.exports=JSON.parse('{"allTagsPath":"/doc-calculator/blog/tags","slug":"/doc-calculator/blog/tags/facebook","name":"facebook","count":1,"permalink":"/doc-calculator/blog/tags/facebook"}')}}]);
