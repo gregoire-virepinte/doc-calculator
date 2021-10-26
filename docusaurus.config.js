@@ -9,12 +9,12 @@ const config = {
   title: 'carbometrix calculator',
   tagline: 'Documentation for the calculator.',
   url: 'https://gregoire-virepinte.github.io',
-  baseUrl: '/new_documentation/',
+  baseUrl: '/doc-calculator/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
   organizationName: 'gregoire-virepinte', // Usually your GitHub org/user name.
-  projectName: 'docusaurus', // Usually your repo name.
+  projectName: 'doc-calculator', // Usually your repo name.
 
   presets: [
     [
